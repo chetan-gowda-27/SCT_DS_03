@@ -37,9 +37,7 @@ All categorical features were **one-hot encoded** before training.
 - **Library:** `scikit-learn`  
 - **Data Split:** 80% training / 20% testing  
 - **Preprocessing:** One-hot encoding  
-- **Hyperparameters:**
-  - `max_depth=5`
-  - `random_state=42`
+
 
 ---
 
